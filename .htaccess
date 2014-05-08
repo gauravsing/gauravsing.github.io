@@ -1,0 +1,3 @@
+RewriteEngine on 
+AddType application/x-httpd-php .php .php3 .html .htm
+Redirect permanent usrdata/itpoadmin/TradeInformation/uploadData/ http://www.tradeportalofindia.com/usrdata/itpoadmin/TradeInformation/UploadData/
